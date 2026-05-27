@@ -306,6 +306,14 @@ footer{
 
 @media (max-width:768px){
 
+    .overlay{
+        opacity:1;
+        background:rgba(0,0,0,.55);
+    }
+
+    .piercing-card img{
+        transform:none;
+    }
     /* NAVBAR */
 
     .navbar{
